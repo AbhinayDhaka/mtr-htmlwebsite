@@ -1,0 +1,173 @@
+/* #maindiv{
+  background-color: LightGray	;
+  height: 25rem;
+  } */
+h1{
+      font-family: cursive;
+}
+  hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #cccccc6b;;
+  }
+button{
+  font-style: oblique;
+}
+
+  a{
+    font-style: oblique;
+  }
+  p{
+    font-style: oblique;
+  }
+  #navdiv1{
+    margin-left: 2%;
+        font-family: monospace;
+        font-weight: 550;
+
+  }
+  #navdiv{
+    color: #5757e5;
+    margin-left:4%;
+  }
+
+header{
+
+color: #5757e5;
+font-size: 25px;
+margin-left: 2%;
+font-family: monospace;
+font-weight: bolder;
+}
+
+#Allmodule{
+
+    background-color: #e8ecea;
+  height: 480px;
+      margin-top: -8.5px;
+}
+#onemodule{
+  position: fixed;
+  bottom: 350px;
+  right: 907px;
+  width: 285px;
+  border-radius: 4px;
+background: #fff;
+    height: 150px;
+
+}
+#twomodule{
+  position: fixed;
+  bottom: 350px;
+  right: 567px;
+  width: 285px;
+border-radius: 4px;
+background: #fff;
+height: 150px;
+
+}
+#threemodule{
+  position: fixed;
+  bottom: 350px;
+  right: 227px;
+  width: 285px;
+border-radius: 4px;
+
+background: #fff;
+height: 150px;
+}
+#fourmodule{
+  position: fixed;
+      bottom: 60px;
+      right: 222px;
+
+      width: 970px;
+    border-radius: 4px;
+      background-color: #fff;
+      height: 283px;
+}
+#trname{
+    margin-left: 2%
+}
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #5757e5;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 45%;
+  margin-top: 6%;
+}
+#twohundred{
+  margin-top: 2%;
+  text-align: center;
+    margin-left: 8%;
+}
+#users{
+  margin-left: 10%;
+margin-top: -8%;
+  text-align: center;
+    color: #5757e5;
+}
+#Recents{
+  color: #5757e5;
+  margin-left: 2%;
+  margin-top: 1%;
+     font-size: 20px;
+}
+#view{
+    margin-left: 1%;
+  color: #5757e5;
+    text-decoration: underline;
+     font-size: 10px;
+}
+#first{
+    color: #5757e5;
+      margin-left: 10%;
+    font-family: monospace;
+    font-weight: 550;
+}
+#second{
+
+      margin-left: 10%;
+}
+#third{
+
+      margin-left: 10%;
+}
+#fourth{
+
+      margin-left: 10%;
+}
+#five{
+
+      margin-left: 10%;
+}
+#six{
+
+      margin-left: 10%;
+}
+.Resolved{
+  margin-left: 9%;
+}
+#Resolved1{
+  background-color: #7dd41f;
+/* background-color: #7cc51f; */
+      border: 1px;
+      border-radius: 5px;
+      color: white;
+      width: 7rem;
+      height: 1.3rem;
+}
+#status{
+  margin-left: 14%;
+  color: #5757e5;
+  font-family: monospace;
+  font-weight: 550;
+}
+footer{
+  text-align: center;
+      margin-top: 1%;
+      color: #5757e5;
+      font-family: monospace;
+       font-weight: 550;
+           margin-left: -15%;
+}
